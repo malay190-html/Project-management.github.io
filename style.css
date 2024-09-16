@@ -1,0 +1,25 @@
+h1 {
+    color: gold;
+}
+
+body {
+    background-color: rgb(26, 21, 26);
+}
+
+.about {
+    color: white;
+}
+
+.skills {
+    color: green;
+}
+
+.projects {
+    color: blue;
+    
+}
+
+.contact {
+    color: rgb(255, 247, 0);
+}
+
